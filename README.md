@@ -8,13 +8,13 @@ A comprehensive research demonstration system for melanoma classification using 
 
 DermAI-Melanoma provides:
 
-1. **Complete ML Training Pipeline**: Patient-level data splitting, advanced augmentation, and robust evaluation
-2. **Dual Model Architecture**: 
+**Complete ML Training Pipeline**: Patient-level data splitting, advanced augmentation, and robust evaluation
+**Dual Model Architecture**: 
    - Benchmark model (EfficientNet) for maximum performance
    - Mobile model (MobileNetV3-Small) optimized for deployment
-3. **Progressive Web App**: Mobile-ready interface with offline capabilities
-4. **Explainable AI**: Grad-CAM visualizations for model interpretability
-5. **Comprehensive Documentation**: Including guides for healthcare professionals
+**Progressive Web App**: Mobile-ready interface with offline capabilities
+**Explainable AI**: Grad-CAM visualizations for model interpretability
+**Comprehensive Documentation**: Including guides for healthcare professionals
 
 # Citation
 
