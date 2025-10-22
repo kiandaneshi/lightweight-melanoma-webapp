@@ -16,7 +16,11 @@ DermAI-Melanoma provides:
 **Explainable AI**: Grad-CAM visualizations for model interpretability
 **Comprehensive Documentation**: Including guides for healthcare professionals
 
-# Citation
+# Citation (for code)
 
 Daneshi, K. (2025). DermAI - Melanoma: Mobile Web Application. Zenodo. https://doi.org/10.5281/zenodo.17207936 
+
+# Citation (for paper publishing results/educational framework)
+
+TBC.
 
